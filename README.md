@@ -7,7 +7,8 @@ I'm an experienced Data Analyst who loves turning complex data into meaningful i
 ---
 ### Languages and Tools
 <img align = "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<i align = "left" alt="Java" width="30px" style="padding-right:10px;" class="devicon-postgresql-plain-wordmark colored"></i>
+<img align = "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+          
 <i align = "left" alt="Java" width="30px" style="padding-right:10px;" class="devicon-mysql-plain-wordmark"></i>
 <img align = "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align = "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
