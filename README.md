@@ -90,29 +90,6 @@ Valparaiso University, Valparaiso, IN | May 2024
 
 ---
 
-## 📂 Notable Projects
-
-### Full-Stack E-Commerce Application
-- **Tech Stack:** Java, Spring Boot, Angular, MySQL, Docker
-- Built end-to-end e-commerce platform with product catalog, shopping cart, and secure checkout
-- Implemented JWT-based authentication and role-based access control
-- Used JPA/Hibernate for ORM and optimized database queries
-- Deployed using Docker containers and Jenkins CI/CD
-
-### User Management System
-- **Tech Stack:** Java, Spring Boot, Angular, PostgreSQL
-- Developed CRUD application with reactive forms and client-side validation
-- Implemented Spring Security for authentication and authorization
-- Wrote comprehensive unit tests with JUnit and Mockito
-- Tested APIs using Postman
-
-### REST API Services
-- Built scalable REST APIs using Spring Boot
-- Implemented pagination, filtering, and sorting for efficient data retrieval
-- Used Spring Data JPA for clean database interactions
-- Documented APIs using Swagger/OpenAPI
-
----
 
 ## 🔧 Development Workflow
 
